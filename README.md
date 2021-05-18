@@ -1,6 +1,7 @@
 # custom_text_form_field
 
-A demo to customize text form field./n
+A demo to customize text form field.
+
 Handling error state with and without focus.
 Form Field Decoration.
 Suffix Icon click listener.
