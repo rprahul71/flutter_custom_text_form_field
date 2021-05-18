@@ -1,6 +1,13 @@
 # custom_text_form_field
 
-A new Flutter project.
+A demo to customize text form field.
+Handling error state with and without focus.
+Form Field Decoration.
+Suffix Icon click listener.
+Password field.
+Disabled field.
+Phone number field with validator and masking.
+
 
 ## Getting Started
 
